@@ -30,3 +30,12 @@ IDE: VS Code
 Click here to view the task: https://aishakamboh.github.io/OIBSIP/Task3/
 
 
+# Task4: create Tribute Page
+
+Technoloies: HTML, CSS
+
+IDE: VS Code
+
+Click here to view the task: https://aishakamboh.github.io/OIBSIP/Task4/
+
+
